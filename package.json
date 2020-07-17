@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "leancloud-storage": "^3.15.0",
+    "leanengine": "^3.7.0"
+  }
+}
